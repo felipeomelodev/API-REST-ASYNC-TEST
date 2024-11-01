@@ -1,5 +1,5 @@
 import { Router }  from 'express'
-import CadastroLink from './controladores/cadastro_Link_Controlador'
+import CadastroLink from './controladores/Cadastro_Link_Controlador'
 
 const rotas = Router()
 
